@@ -8,4 +8,7 @@ However, I believe there are some issues or disadvantages to such no-code platfo
 
 
 ## Comment from Rhan
-Wow this is exiting to know! I'll check it out later!
+Wow this is exiting to know! I totally agree on the issues you have mentioned. I will go check out the website.
+
+Rhan Chen
+xc2344
