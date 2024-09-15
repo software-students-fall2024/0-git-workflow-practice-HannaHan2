@@ -4,3 +4,11 @@ However, I believe there are some issues or disadvantages to such no-code platfo
 - They cannot offer the full flexibility or support the highly specific or complex functionality of traditional coding. 
 - There are security concerns because users do not have control over the codebase or infrastructure. 
 - For scalable applications, these platforms might not be as efficient or cost-effective.
+
+
+
+## Comment from Rhan
+Wow this is exiting to know! I totally agree on the issues you have mentioned. I will go check out the website.
+
+Rhan Chen
+xc2344
